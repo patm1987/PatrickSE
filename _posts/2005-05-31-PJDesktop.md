@@ -1,6 +1,7 @@
 ---
-title: PJDesktop
-tags: highschool application
+layout: post
+title: "PJDesktop"
+categories: highschool application
 ---
 
 # PJDesktop
@@ -11,3 +12,4 @@ It is rather extensible, but it doesn’t dynamically scan for files so most thi
 
 This is meant to essentially be a desktop layer, replacing your icons, start bar, etc. with this Java window.  If you’re using Linux it works best if you set it to be the root window.
 
+[PJDesktop Download]({{ site.url }}/early_projects/pjCanvas.zip)
