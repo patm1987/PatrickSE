@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Animation Project"
 tags: DigiPen Graphics
 ---
