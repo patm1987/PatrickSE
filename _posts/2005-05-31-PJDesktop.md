@@ -1,5 +1,4 @@
 ---
-layout: post
 title: PJDesktop
 tags: highschool application
 ---
