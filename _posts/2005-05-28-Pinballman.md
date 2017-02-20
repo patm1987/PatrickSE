@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Space Things"
+title: "Pinballman: Beyond the Arcade"
 categories: highschool game
 ---
 Pinballman was my first true game.  It took me about three months to make the original game, and I have since debugged it and fixed it.  Sometime around 1999 – 2000 I essentially lost my sourcecode.  I made this game originally with Klik & Play from Clickteam .  I eventually updated it to The Games Factory, another product by the same company.
