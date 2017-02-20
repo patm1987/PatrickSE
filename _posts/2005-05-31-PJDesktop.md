@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PJDesktop"
-categories: highschool application
+tags: highschool application
 ---
 
 # PJDesktop

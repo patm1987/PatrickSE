@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Animation Project"
-categories: DigiPen Graphics
+title: "Game Narrative Review - Prey"
+tags: DigiPen Essays
 ---
 This is a game narrative review I wrote of the game Prey in Eng400.  I am posting this paper since it has been accepted for a poster session at GDC Austin 2009.
 
