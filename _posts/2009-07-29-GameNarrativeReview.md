@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Game Narrative Review - Prey"
 tags: DigiPen Essays
 ---

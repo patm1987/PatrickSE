@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Pinballman: Beyond the Arcade"
 tags: highschool game
 ---

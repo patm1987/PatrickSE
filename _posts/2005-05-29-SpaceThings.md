@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Space Things"
 tags: highschool game
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "3D Soft Body Physics Simulation"
 tags: DigiPen Physics
 ---
