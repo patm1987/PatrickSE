@@ -8,9 +8,9 @@ This is the aggregation of three animation projects over the course of a semeste
 Cs460 Animation Project Download
 
 ![]({{site.github.url}}/assets/digipen/animation_project/cs4601.PNG)
-![](assets/digipen/animation_project/cs4602.PNG | prepend: site.github.url)
-![](assets/digipen/animation_project/cs4603.PNG)
-![]({{ site.url }}/assets/digipen/animation_project/cs4604.PNG)
+![]({{site.github.url}}/assets/digipen/animation_project/cs4602.PNG)
+![]({{site.github.url}}/assets/digipen/animation_project/cs4603.PNG)
+![]({{site.github.url}}/assets/digipen/animation_project/cs4604.PNG)
 
 Features:
 * Skinned and articulated models (using quaternions for bone orientation).
