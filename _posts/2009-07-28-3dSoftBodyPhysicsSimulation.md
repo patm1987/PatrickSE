@@ -13,12 +13,12 @@ The physics and graphics engines used in this simulation are written in native C
 
 [Real Time Soft Body Simulation Using an Approximation of the Pressure Force]({{ site.github.url }}/assets/digipen/3d_soft_body_physics_simulation/Real-Time-Soft-Body-Simulation-Using-an-Approximation-of-the-Pressure-Force.pdf)
 
-![]({{ side.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft7.jpg)
-![]({{ side.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft1.jpg)
-![]({{ side.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft2.jpg)
-![]({{ side.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft3.jpg)
-![]({{ side.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft4.jpg)
-![]({{ side.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft5.jpg)
-![]({{ side.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft6.jpg)
+![]({{ site.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft7.jpg)
+![]({{ site.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft1.jpg)
+![]({{ site.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft2.jpg)
+![]({{ site.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft3.jpg)
+![]({{ site.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft4.jpg)
+![]({{ site.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft5.jpg)
+![]({{ site.github.url }}/assets/digipen/3d_soft_body_physics_simulation/soft6.jpg)
 
 All content (c) 2009 DigiPen (USA) Corporation, all rights reserved.
