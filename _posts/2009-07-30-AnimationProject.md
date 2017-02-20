@@ -5,7 +5,7 @@ categories: DigiPen Graphics
 ---
 This is the aggregation of three animation projects over the course of a semester, since each project built on the previous there is only one executable.  The two major portions are animation over a path and inverse kinematics (using CCD).  I had written 3 importers but only .ms3d (Milkshape 3D) files are fully supported (I have included one).
 
-Cs460 Animation Project Download
+[Cs460 Animation Project Download]({{ site.github.url }}/assets/digipen/animation_project/Cs460Animation.zip)
 
 ![]({{site.github.url}}/assets/digipen/animation_project/cs4601.PNG)
 ![]({{site.github.url}}/assets/digipen/animation_project/cs4602.PNG)

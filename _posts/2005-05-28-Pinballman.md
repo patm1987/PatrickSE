@@ -9,7 +9,7 @@ Excerpt from my old page:
 
 Graphics aren’t good, and it was programmed in Klik & Play. It is kind of addictive, I hope you like it. If I ever make a 3d game sucessfully, I will attempt to make Pinballman 3d. Pinballman 2 was being developed but was thrown off track and lost.
 
-[Pinballman: Beyond the Arcade Download]({{ site.url }}/assets/early_projects/pinballmaninstall.exe)
+[Pinballman: Beyond the Arcade Download]({{ site.github.url }}/assets/early_projects/pinballmaninstall.exe)
 
 System Requirements:
 
