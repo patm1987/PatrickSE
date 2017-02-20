@@ -1,5 +1,5 @@
 # Patrick SE
 ## Patrick Software Engineer
 {% for post in site.posts %}
-* [{{ post.title }}]({{ post.url}})
+* [{{ post.title }}](PatrickSE/{{ post.url}})
 {% endfor %}
