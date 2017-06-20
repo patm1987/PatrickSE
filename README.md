@@ -9,19 +9,18 @@ I've been lax at maintaining my old Wordpress site during my tenure at [Sphero](
 * My [LinkedIn Profile](https://www.linkedin.com/in/patrick-martin-268a85a/) which is almost as out of date as this old site
 #### What Exactly Happened?
 I used a dynamic CMS to serve what should be a static page and this happened:
-```
-We recently completed a routine security checkup of our servers and platforms. Our scans flagged your patrickse.com hosting accounts as containing possible malware.
 
-Please sign in to your hosting account and review the following content and remove or fix the files listed below:
-backup/pat0918006441980_4579189
-html/wp-admin/admin_ver1.php
-html/wp-admin/downloads/spacethings_new.php
-html/wp-admin/images/comment-grey-bubble-2x_bck_old.php
-html/wp-content/uploads/2015/acef9277_ver1.php
-html/wp-includes/certificates/ca-bundle_new.php
-html/wp-includes/js/crop/cropper_old.php
-html/wp-includes/SimplePie/Cache/DB_ver1.php
-```
+>We recently completed a routine security checkup of our servers and platforms. Our scans flagged your patrickse.com hosting accounts as containing possible malware.
+>
+>Please sign in to your hosting account and review the following content and remove or fix the files listed below:
+>backup/pat0918006441980_4579189
+>html/wp-admin/admin_ver1.php
+>html/wp-admin/downloads/spacethings_new.php
+>html/wp-admin/images/comment-grey-bubble-2x_bck_old.php
+>html/wp-content/uploads/2015/acef9277_ver1.php
+>html/wp-includes/certificates/ca-bundle_new.php
+>html/wp-includes/js/crop/cropper_old.php
+>html/wp-includes/SimplePie/Cache/DB_ver1.php
 
 I don't think I've served up anything terrible, but I don't want to take the chance.
 ### Table of Contents
