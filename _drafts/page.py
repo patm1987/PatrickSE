@@ -59,3 +59,11 @@ class Page:
         '''
         date = self.__date
         return '{}-{}-{}-{}.md'.format(date.year, date.month, date.day, self.__title)
+
+    def output_file(self) -> str:
+        '''Generates the contents of the file'''
+        return '''---
+title: {}
+tags: autoprocessed
+---
+{}'''.format(self.__title, self.__content)
