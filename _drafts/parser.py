@@ -26,3 +26,6 @@ for elem in channel:
                 # print('\tContent:', item.text)
         if page.can_write():
             print('Writing {}'.format(page.file_name()))
+            f = open(page.file_name(), "w")
+            f.write(page.output_file())
+            f.close()
