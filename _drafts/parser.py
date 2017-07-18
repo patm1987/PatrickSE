@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import xml.etree.ElementTree as ET
 import dateparser
+import codecs
 from page import Page
 
 tree = ET.parse('patrickse.wordpress.2017-06-20.xml')
@@ -26,6 +27,5 @@ for elem in channel:
                 # print('\tContent:', item.text)
         if page.can_write():
             print('Writing {}'.format(page.file_name()))
-            f = open(page.file_name(), "w")
-            f.write(page.output_file())
-            f.close()
+            with codecs.open(page.file_name(), "w", "utf-8-sig") as f:
+                f.write(page.output_file())
