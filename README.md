@@ -7,6 +7,7 @@ I've been lax at maintaining my old Wordpress site during my tenure at [Sphero](
 * [Pux0r3.com](http://pux0r3.com) where I keep some fun side projects
 * [GitHub Patm1987](http://github.com/patm1987) where I keep a number of (mostly incomplete) side projects
 * My [LinkedIn Profile](https://www.linkedin.com/in/patrick-martin-268a85a/) which is almost as out of date as this old site
+* (Old DigiPen site)[https://students.digipen.edu/~pmartin/]
 #### What Exactly Happened?
 I used a dynamic CMS to serve what should be a static page and this happened:
 
