@@ -1,6 +1,7 @@
 ---
 title: "3D Soft Body Physics Simulation"
 tags: DigiPen Physics
+date: 2009-07-28
 ---
 This is my Phy350 final project, a soft body simulation using a simulation of the pressure force. The surface of the object is represented as a mesh of springs, and the 3D shape is created and maintained via air pressure.
 

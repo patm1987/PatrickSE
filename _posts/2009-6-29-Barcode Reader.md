@@ -1,6 +1,7 @@
 ---
 title: Barcode Reader
 tags: autoprocessed
+date: 2005-06-29
 ---
 
 # Barcode Reader

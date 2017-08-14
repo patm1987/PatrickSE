@@ -1,6 +1,7 @@
 ---
 title: "Game Narrative Review - Prey"
 tags: DigiPen Essays
+date: 2009-07-29
 ---
 This is a game narrative review I wrote of the game Prey in Eng400.  I am posting this paper since it has been accepted for a poster session at GDC Austin 2009.
 

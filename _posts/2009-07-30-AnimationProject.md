@@ -1,6 +1,7 @@
 ---
 title: "Animation Project"
 tags: DigiPen Graphics
+date: 2009-07-30
 ---
 This is the aggregation of three animation projects over the course of a semester, since each project built on the previous there is only one executable.  The two major portions are animation over a path and inverse kinematics (using CCD).  I had written 3 importers but only .ms3d (Milkshape 3D) files are fully supported (I have included one).
 
